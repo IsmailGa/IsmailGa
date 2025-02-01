@@ -7,8 +7,7 @@
 == 💞️ I’m looking to collaborate with enthusiastic team == 
  
 == 📫 How to reach me FljYTismail@gmail.com == 
- 
-== ⚡ Fun fact: I was having problem with hearing. But now i'm good ==
+
  
 <!---
 IsmailGa/IsmailGa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
